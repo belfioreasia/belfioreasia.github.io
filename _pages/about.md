@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: "Asia Belfiore"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About Me
-======
+
 I'm an Italian Computer Science Postgraduate Student. 
 
 Education

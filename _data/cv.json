@@ -1,152 +1,73 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Asia Belfiore",
+    "email": "belfiore.asia.02@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://belfioreasia.github.io",
+    "summary": "Currently studying a Masters in Advanced Computing at Imperial College London.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "London",
+      "countryCode": "UK",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
         "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://github.com/belfioreasia"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Queen Mary University of London",
+      "position": "Teaching Assistant/Demonstrator",
+      "website": "https://www.qmul.ac.uk",
+      "startDate": "2023",
+      "endDate": "2024",
+      "summary": "Teaching Assistant for the courses 'Object-Oriented Programming' and 'Algorithms and Data Structures'.",
+      "highlights": []
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Imperial College London",
+      "area": "MSc in Advanced Computing",
+      "studyType": "Masters",
+      "startDate": "2024",
+      "endDate": "Ongoing",
       "gpa": null,
-      "courses": []
+      "courses": ["Deep Learning", "Reinforcement Learning", "Privacy Engineering", "Computational Neurodynamics",
+      "Statistical Information Theory", "Deep Graph-Based Learning", "Natural Language Processing"]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "institution": "Queen Mary University of London",
+      "area": "BSc in Computer Science",
+      "studyType": "Bachelors",
+      "startDate": "2021",
+      "endDate": "2024",
+      "gpa": "First Class Honours",
+      "courses": ["Algorithms and Data Structures", "Object-Oriented Programming", "Operating Systems", "LinearAlgebra I-II", 
+      "Cryptography", "Probability", "Bayesian Decision and Risk Analysis", "Security Engineering", "Neural Networks and Deep Learning"]
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "Polo Liceale Statale 'Saffo'",
+      "area": "Liceo Scientifico opzione Scienze Applicate",
+      "studyType": "High School",
+      "startDate": "2016",
+      "endDate": "2021",
+      "gpa": "100/100 cum laude",
+      "courses": ["Mathematics", "Informatics", "Physics", "Chemistry", "Biology", "Italian", "English", "History", "Philosophy"]
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": ["Python", "Java", "NumPy", "Pandas", "PyTorch", "Matplotlib", "JavaScript", "HTML", "CSS"],
+  "languages": ["Italian (native)", "English (fluent, CEFR C2)", "Spanish (basic)", "French (basic)"],
+  "interests": ["Chess (Regional Level Competitor)", "Sports (Brown Belt in Karate, 6-year Ballerina, Climbing and Bouldering)", 
+  "Guitar Playing", "Photography", "Graphic and Interior Design", "Cooking"],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "publications": [],
+  "presentations": [],
+  "teaching": []
 }
