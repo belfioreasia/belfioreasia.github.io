@@ -7,27 +7,30 @@
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
 
-main:
-  - title: "Publications"
-    url: /publications/
+main: 
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Education"
+    url: /education/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
+  - title: "Projects"
     url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+
+  # - title: "Teaching"
+  - title: "Experience"
+    url: /experience/  
+
   - title: "CV"
-    url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
+    url: /cv-json/
+    # url: /cv/
+
+  # - title: "Publications"
+  #   url: /publications/
+
+  # - title: "Talks"
+  #   url: /talks/   
+        
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
   - title: "Guide"
     url: /markdown/
