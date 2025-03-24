@@ -19,3 +19,18 @@ and access their score through eye-catching graphics and visualizations for a fa
 
 Network Implemetation and Data Analysis available [here](https://github.com/belfioreasia/CrohnsPred). \\
 Webapp interface available [here](https://github.com/belfioreasia/WebApp).
+
+
+References
+====
+
+Aleksejs Sazonovs, Stevens, C., Guhan Ram Venkataraman, Yuan, K., Avila, B.E., Abreu, M.T., Ahmad, T., Matthieu Allez, Atzmon, G., Baras, A., Jc, B., Nir Barzilai, Laurent Beaugerie, Beecham, A., Bernstein, Ç.N., Bitton, A., Bernd Bokemeyer, Chan, A., Chung, D.C. and Cleynen, I. (2021). Sequencing of over 100,000 individuals identifies multiple genes and rare variants associated with Crohn's disease susceptibility. medRxiv (Cold Spring Harbor Laboratory). doi:https://doi.org/10.1101/2021.06.15.21258641.
+
+Behravan, H., Hartikainen, J.M., Tengström, M., Pylkäs, K., Winqvist, R., Kosma, V., Mannermaa, A., 2018. Machine learning identifies interacting genetic variants contributing to breast cancer risk: A case study in Finnish cases and controls. Sci. Rep. 8 , 13149. https://doi.org/10.1038/s41598-018-31573-5.
+
+Roda, G., Chien Ng, S., Kotze, P.G., Argollo, M., Panaccione, R., Spinelli, A., Kaser, A., Peyrin-Biroulet, L. and Danese, S. (2020). Crohn’s disease. Nature Reviews Disease Primers, [online] 6(1), pp.1–19. doi:https://doi.org/10.1038/s41572-020-0156-2.
+
+Wharrie, S., Yang, Z., Raj, V., Monti, R., Gupta, R., Wang, Y., Martin, A., O’Connor, L.J., Kaski, S., Pekka Marttinen, Pier Francesco Palamara, Lippert, C. and Ganna, A. (2022). HAPNEST: efficient, large-scale generation and evaluation of synthetic datase ts for genotypes and phenotypes. bioRxiv (Cold Spring Harbor Laboratory). doi:https://doi.org/10.1101/2022.12.22.521552.
+
+Zhou, X., Chen, Y., Ip, F.C.F., Jiang, Y., Cao, H., Lv, G., Zhong, H., Chen, J., Ye, T., Chen, Y., Zhang, Y., Ma, S., Lo, R.M.N., Tong, E.P.S., Mok, V.C.T., Kwok, T.C.Y., Guo, Q., Mok, K.Y., Shoai, M. and Hardy, J. (2023). Deep learning-based polygenic risk analysis for Alzheimer’s disease prediction. Communications Medicine, [online] 3(1), pp.1–20. doi:https://doi.org/10.1038/s43856-023-
+00269-x.
