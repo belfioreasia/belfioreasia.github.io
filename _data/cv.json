@@ -2,7 +2,6 @@
   "basics": {
     "name": "Asia Belfiore",
     "email": "belfiore.asia.02@gmail.com",
-    "phone": "",
     "website": "https://belfioreasia.github.io",
     "summary": "Currently studying a Masters in Advanced Computing at Imperial College London.",
     "location": {
@@ -64,10 +63,5 @@
   ],
   "skills": ["Python", "Java", "NumPy", "Pandas", "PyTorch", "Matplotlib", "JavaScript", "HTML", "CSS"],
   "languages": ["Italian (native)", "English (fluent, CEFR C2)", "Spanish (basic)", "French (basic)"],
-  "interests": ["Chess (Regional Level Competitor)", "Sports (Brown Belt in Karate, 6-year Ballerina, Climbing and Bouldering)", 
-  "Guitar Playing", "Photography", "Graphic and Interior Design", "Cooking"],
-  "references": [],
-  "publications": [],
-  "presentations": [],
-  "teaching": []
+  "interests": ["Chess (Regional Level Competitor)", "Sports (Brown Belt in Karate, 6-year Ballerina, Climbing and Bouldering)", "Guitar Playing", "Photography", "Graphic and Interior Design", "Cooking"]
 }

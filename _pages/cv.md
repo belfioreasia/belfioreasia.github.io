@@ -14,22 +14,35 @@ Education
 * M.S. in Advanced Computing, Imperial College London, 2025 (expected)
 * B.S. in Computer Science and Mathematics, Queen Mary University of London, 2024
 
-Work experience
+Experience
 ======
 * Autumn 2024: Demonstrator/Teaching Assistant
   * Queen Mary University of London
   * Duties includes: Supervision and grading of groups of 100+ first and second-year undergraduate students.
-  * Supervisor: Senior QMUL Professors
+* 2023-Ongoing: STEM Mentee
+  * Lead The Future
+  * Among the few Italian students selected as mentees for Lead The Future, a leading non-profit organisation for STEM students with an acceptance rate below 20%
 
-* 2021-22: General Administration
-  * Nova Inox srl
-  * Duties included: Administration and organisation of employee-related duties
+Competitions and Awards
+======
+* QMUL EECS Final Year Prize for Outstanding Academic Achievements 
+  * Award Winner 2023-2024
+* National Italian Excellence Honours Roll (MIUR)
+  * Award Winner 2020-2021
+* Class President (High School)
+  * Yearly Elected 2018 - 2021
+* Italian Problem-Solving Olympiads (High School - Individual and Team)
+  * National Finalist 2017 - 2018
+* Highest Academic Performance (High School)
+  * Yearly Award Winner
 
 Projects
 ======
-  <ul>{% for post in site.projects reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  <ul>
+    {% for post in site.portfolio %}
+      {% include archive-single.html %}
+    {% endfor %}
+  </ul>
   
 Skills
 ======
