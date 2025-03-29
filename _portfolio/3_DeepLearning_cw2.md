@@ -1,5 +1,5 @@
 ---
-title: "Hotdog Generator"
+title: "HotDog Image Generator"
 excerpt: "A DDPM model for the generaation of hot dog images. Submitted as coursework for the 'Deep Learning' postgraduate course at Imperial College London. <br/><img src='/images/DL_cw2.png'>"
 collection: portfolio
 ---
@@ -12,11 +12,13 @@ A **Denoising Diffusion Probabilistic Model** (DDPM) is a type of *deep generati
 
 ![alt text](/images/DL_DDPM_architecture.png)
 
-The implemented DDPM uses a simple CCN based **noise predictor** model which learns to predict and remove noise from images. It takes a noisy image and timestep as input and predicts the noise that was added, enabling the gradual denoising process.
+The implemented DDPM uses a simple CNN based **noise predictor** model which learns to predict and remove noise from images. It takes a noisy image and timestep as input and predicts the noise that was added, enabling the gradual denoising process.
 
 ![alt text](/images/DL_noising_process.png)
 
-Come of the best generated images are shown below: 
+Some of the best generated images are shown below: 
+![alt text](/images/DL_cw2.png)
+
 
 Code Implemetation is available [here](https://github.com/belfioreasia/Deep-Learning). 
 
