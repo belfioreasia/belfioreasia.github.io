@@ -1,5 +1,5 @@
 ---
-title: "Hotdog Generator"
+title: "Exploring Graph Neural Networks"
 excerpt: "Exploration of GNNs. Submitted as coursework for the 'Deep Graph-Based Learning' postgraduate course at Imperial College London. <br/><img src='/images/DGL_GNNs_architecure.png'>"
 collection: portfolio
 ---

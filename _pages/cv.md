@@ -46,14 +46,6 @@ Competitions and Awards
   * National Finalist 2017 - 2018
 * Highest Academic Performance (High School)
   * Yearly Award Winner
-
-Projects
-======
-  <ul>
-    {% for post in site.portfolio %}
-      {% include archive-single.html %}
-    {% endfor %}
-  </ul>
   
 Skills
 ======
@@ -72,6 +64,15 @@ Skills
   * JavaScript 
   * HTML
   * CSS
+
+[Projects]({base_path}/portfolio/)
+======
+<!-- 
+  <ul>
+    {% for post in site.portfolio %}
+      {% include archive-single.html %}
+    {% endfor %}
+  </ul> -->
   
 <!-- 
 Publications
