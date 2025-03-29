@@ -11,8 +11,19 @@ redirect_from:
 
 Education
 ======
-* M.S. in Advanced Computing, Imperial College London, 2025 (expected)
-* B.S. in Computer Science and Mathematics, Queen Mary University of London, 2024
+* **MSc Advanced Computing**
+  * Imperial College London
+  * Sept 2025 - Ongoing
+  * *Modules*: Deep Learning, Reinforcement Learning, Privacy Engineering, Computational Neurodynamics, Statistical Information Theory, Deep Graph-Based Learning, Natural Language Processing
+* **Joint BSs in Computer Science and Mathematics**
+  * Queen Mary University of London
+  * Sept 2021 - July 2024
+  * *GPA*: 100/100 cum laude
+  * *Modules*: Algorithms and Data Structures, Object-Oriented Programming, Operating Systems, LinearAlgebra I-II, Cryptography, Probability, Bayesian Decision and Risk Analysis, Security Engineering, Neural Networks and Deep Learning
+* **HS Diploma Liceale Scientifico opzione Scienze Applicate**
+  * Polo Liceale Statale 'Saffo'
+  * Sept 2016 - July 2021
+  * *GPA*: 100/100 cum laude
 
 Experience
 ======
