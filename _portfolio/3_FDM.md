@@ -11,5 +11,5 @@ The current expenses system FDM implements is an inefficient and manual approach
 We propose a free software that will provide its users with the ability to submit reimbursement claims for business related expenses such as: overnight stays, business dining, and similar expenditures concerning business related activities. Our proposed application offers a uniform and easy solution to track expenses that are classified as business related purchases, made by FDM employees, which will then be authorised prior to proceeding with the reimbursement. 
 Additionally, the option to attach VAT and receipts will be in place, providing useful insights aimed at monitoring employees’ spending patterns and habits by analysing their expenses claims.
 
-[<kbd>Code Implementation</kbd>](https://github.com/belfioreasia/FDM_Expenses_Manager/Expenses_Manager) \
-[<kbd>Stages and Reports</kbd>](hhttps://github.com/belfioreasia/FDM_Expenses_Manager)
+[<kbd>Code Implementation</kbd>](https://github.com/belfioreasia/FDM_Expenses_Manager/tree/main/Expenses_Manager) \
+[<kbd>Stages and Reports</kbd>](https://github.com/belfioreasia/FDM_Expenses_Manager)
