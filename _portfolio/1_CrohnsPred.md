@@ -17,8 +17,8 @@ This project proposes a Deep Neural Network, *CrohnsPred*, for the prediction of
 The prediction tool is integrated into a publicly accessible web-based dashboard, which allows the users to get a personalized prediction
 and access their score through eye-catching graphics and visualizations for a facile understanding of the results. 
 
-Network Implemetation and Data Analysis available [here](https://github.com/belfioreasia/CrohnsPred). \\
-Webapp interface available [here](https://github.com/belfioreasia/WebApp).
+[<kbd>Implemetation and Data Analysis</kbd>](https://github.com/belfioreasia/CrohnsPred) \
+[<kbd>Webapp interface</kbd>](https://github.com/belfioreasia/WebApp)
 
 
 References

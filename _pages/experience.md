@@ -21,17 +21,17 @@ Professional Experience
 Certifications
 ======
 * Data Analysis with Python
-  * freeCodeCamp ([View Certificate](/files/freeCodeCamp-Data_Analysis_with_Python.pdf))
+  * freeCodeCamp ([<kbd>View Certificate</kbd>](/files/freeCodeCamp-Data_Analysis_with_Python.pdf))
   * Winter 2024
 
 * Intro to Machine Learning
-  * Kaggle ([View Certificate](/files/Kaggle-Intro_to_Machine_Learning.png))
+  * Kaggle ([<kbd>View Certificate</kbd>](/files/Kaggle-Intro_to_Machine_Learning.png))
   * Autumn 2023
 
 * Data Visualization
-  * Coursera ([View Certificate](/files/Coursera-52C3L3XWXFPG.pdf))
+  * Coursera ([<kbd>View Certificate</kbd>](/files/Coursera-52C3L3XWXFPG.pdf))
   * Summer 2023
 
 * Developer and Technology Virtual Experience Programme
-  * Accenture ([View Certificate](/files/AccentureUK_completion_certificate.pdf))
+  * Accenture ([<kbd>View Certificate</kbd>](/files/AccentureUK_completion_certificate.pdf))
   * Spring 2023

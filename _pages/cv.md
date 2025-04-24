@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[<kbd>PDF Version</kbd>](/files/cv.pdf)
+
 Education
 ======
 * **MSc Advanced Computing**
