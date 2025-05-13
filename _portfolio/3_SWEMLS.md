@@ -1,5 +1,5 @@
 ---
-title: "Aki Predictor"
+title: "Acute Kidney Injury (AKI) Prediction System using Machine Learning Models"
 excerpt: "A Machine Learning model for the diagnosis of Acute Kidney Injury (AKI). Submitted as coursework for the 'Software Engineering for ML Systems' postgraduate course at Imperial College London. <br/><img src='/images/aki-system.png'>"
 collection: portfolio
 ---

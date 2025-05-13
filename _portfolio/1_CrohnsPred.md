@@ -1,5 +1,5 @@
 ---
-title: "CrohnsPred"
+title: "CrohnsPred: Applications of Deep Learning for Genetic Risk Prediction of Crohn’s Disease"
 excerpt: "A Deep Neural Network for Genetic Risk Prediction of Crohn's Disease.<br/><img src='/images/CP_cover_image.png'>"
 collection: portfolio
 ---
